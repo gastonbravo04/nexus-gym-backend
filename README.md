@@ -1,10 +1,10 @@
-# nexus-gym-backend
-API REST en Spring Boot para la gestión de accesos, membresías y rutinas.
-## Problema
-Control de acceso ineficiente y falta de trazabilidad en cuotas de socios.
-## Solución
-API robusta que valida accesos vía QR y gestiona planes de entrenamiento.
-## Stack
-- Java 17/21 & Spring Boot.
-- PostgreSQL.
-- Spring Security + JWT.
+nexus-gym-backend
+REST API in Spring Boot for managing access, memberships, and workout routines.
+
+Problem: Inefficient access control and lack of traceability in membership fees.
+
+Solution: Robust API that validates access via QR code and manages training plans.
+
+Stack: Java 17/21 & Spring Boot.
+PostgreSQL.
+Spring Security + JWT.
